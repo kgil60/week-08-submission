@@ -31,6 +31,10 @@ main {
     background-color: #c9c9c9;
 }
 
+.div-wt {
+    background-color: white;
+}
+
 #full-band {
     width: 20%;
 }
@@ -73,4 +77,19 @@ form > input {
     cursor: pointer;
     padding: 20px 25px;
     font-size: 18px;
+}
+
+.table-div {
+    padding: 15px 35%;
+}
+
+table {
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+}
+
+td {
+    border-bottom-style: solid;
+    border-bottom-color: black;
 }
